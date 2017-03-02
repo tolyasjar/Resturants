@@ -1,2 +1,2 @@
 # Resturants
-![alt tag](https://media.giphy.com/media/l44QdRc3C8ndqJfe8/giphy.gif)
+![alt tag](https://github.com/tolyasjar/Resturants/blob/master/Restaurant.gif?raw=true)
